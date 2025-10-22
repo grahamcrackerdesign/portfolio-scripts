@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
   // Configuration - easily change these class names
   const LIGHTBOX_IMAGE_CLASS = 'lightbox-image';
@@ -656,4 +655,3 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 });
-</script>
