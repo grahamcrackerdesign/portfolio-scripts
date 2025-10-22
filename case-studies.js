@@ -1,4 +1,3 @@
-<script>
 
 // Calculate and adjust badge visibility based on available space
 function calculateBadgeVisibility() {
@@ -298,4 +297,3 @@ document.addEventListener('DOMContentLoaded', function() {
   // Recalculate on window resize with debouncing
   window.addEventListener('resize', debounce(calculateBadgeVisibility, 1));
 });
-</script>
