@@ -1,4 +1,3 @@
-<script>
 const playlist = [
   { 
     title: "House Nation - Silva Bumpa", 
@@ -269,4 +268,3 @@ function updateTrackDurations() {
   });
 }
 
-</script>
